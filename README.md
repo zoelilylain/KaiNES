@@ -1,3 +1,2 @@
-# Super_Marie_kaios
-Super Marie for kaios
-暂时没有声音
+# JSNES on KaiOS < 3.0
+Because yes it does work, just not at full speed.
