@@ -1,10 +1,10 @@
 {
-  "name": "超级玛丽",
-  "description": "超级玛丽 KaiOS 版",
+  "name": "NES",
+  "description": "jsnes KaiOS",
   "version": "1.0",
   "launch_path": "/index.html",
   "type": "privileged",
-  "origin": "app://kai.zixing.jsnes",
+  "origin": "app://kai.jsnes.aaaaa",
   "icons": {
     "56": "/icon.png"
   },
